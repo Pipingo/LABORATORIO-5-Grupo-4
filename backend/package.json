@@ -1,5 +1,5 @@
 {
-  "name": "push-demo-backend",
+  "name": "push-notifications-service-backend",
   "version": "1.0.0",
   "scripts": {
     "start": "node index.js"
